@@ -1,6 +1,6 @@
 # GUI_Image_Renamer
 
-This Python GUI application provides a complete solution for batch renaming JPG images using zonal OCR. Here are the key features:
+This app provides a complete solution for batch renaming JPG images using zonal OCR. Here are the key features:
 
 ## Key Features:
 
