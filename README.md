@@ -1,4 +1,4 @@
-# GUI_Image_Renamer
+# GUI Image Renamer
 
 This app provides a complete solution for batch renaming JPG images using zonal OCR.
 
